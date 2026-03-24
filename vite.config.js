@@ -11,7 +11,7 @@ export default defineConfig({
       },
     }),
   ],
-  base:"/Portfolio_vite",
+  base:"/Portfolio_vite/",
   server: {
     host: "0.0.0.0",
     port: 5173,
