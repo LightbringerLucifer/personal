@@ -20,19 +20,9 @@ const Resume = () => {
       alert("OOPS! An Error Occured");
     }
   };
-  // const onButtonClick = () => {
-  //   fetch(Resume_file).then((response) => {
-  //     response.blob().then((blob) => {
-  //       const fileURL = window.URL.createObjectURL(blob);
-  //       let alink = document.createElement("a");
-  //       alink.href = fileURL;
-  //       alink.download = "Resume.pdf";
-  //       alink.click();
-  //     });
-  //   });
-  // };
+ 
   return (
-    <div id="resume" style={{ justifySelf: "center" }}>
+    <div id="resume" class="" style={{ justifySelf: "center" }}>
       <button
         className="btn btn-primary download btn-lg"
         onClick={onButtonClick}

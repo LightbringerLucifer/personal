@@ -22,9 +22,9 @@ const Skills = () => {
             className="carousel slide"
             data-bs-ride="carousel"
           >
-            <div className="carousel-inner">
+            <div className="carousel-inner p-3">
               {/*React  */}
-              <div className="carousel-item active animated bounceInRight">
+              <div className="carousel-item active animated bounceInRight ">
                 <span className="animated slideInLeft">
                   <img
                     alt="react"
