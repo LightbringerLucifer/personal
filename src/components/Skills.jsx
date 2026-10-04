@@ -31,7 +31,7 @@ const Skills = () => {
                     src={react_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>React JS</p>
@@ -49,7 +49,7 @@ const Skills = () => {
                     src={html_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>HTML</p>
@@ -67,7 +67,7 @@ const Skills = () => {
                     src={css_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>CSS</p>
@@ -82,7 +82,7 @@ const Skills = () => {
                     src={js_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>Javascript</p>
@@ -97,7 +97,7 @@ const Skills = () => {
                     src={jquery_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                   
                   />
                 </span>
                 <p>JQuery</p>
@@ -111,7 +111,7 @@ const Skills = () => {
                     src={boot_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>Bootstrap</p>
@@ -128,7 +128,7 @@ const Skills = () => {
                     src={redux_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>Redux</p>
@@ -143,7 +143,7 @@ const Skills = () => {
                     src={rb_logo}
                     width="100"
                     className="img-circle"
-                    loading="lazy"
+                    
                   />
                 </span>
                 <p>React-Bootstrap</p>
