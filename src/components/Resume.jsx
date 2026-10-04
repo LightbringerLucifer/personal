@@ -22,7 +22,7 @@ const Resume = () => {
   };
  
   return (
-    <div id="resume" class="" style={{ justifySelf: "center" }}>
+    <div id="resume" className="" style={{ justifySelf: "center" }}>
       <button
         className="btn btn-primary download btn-lg"
         onClick={onButtonClick}
